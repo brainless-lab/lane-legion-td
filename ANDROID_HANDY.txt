@@ -1,0 +1,11 @@
+LANE LEGION TD v0.1 – Android
+
+1. Diesen Ordner in Godot Android importieren (project.godot).
+2. Projekt starten (Play-Dreieck), um es direkt zu testen.
+3. Fuer eine APK: Projekt > Exportieren > Android.
+4. Falls Godot nach Export Templates fragt, diese in Godot installieren.
+5. Debug APK exportieren. Dateiname: LaneLegionTD-v0.1.apk
+
+Paket-ID: com.lanelegion.td
+Ausrichtung: Hochformat
+Renderer: OpenGL Compatibility
